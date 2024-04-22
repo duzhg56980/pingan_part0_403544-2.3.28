@@ -1,0 +1,7 @@
+import freemarker.template.DefaultArrayAdapter.FloatArrayAdapter;
+public class FunctionUse5785 {
+public void funcUse() {
+FloatArrayAdapter floatarrayadapter = new FloatArrayAdapter();
+floatarrayadapter.getWrappedObject();
+}
+}

@@ -1,0 +1,7 @@
+import freemarker.core.ThreadInterruptionSupportTemplatePostProcessor;
+public class FunctionUse3090 {
+public void funcUse() {
+ThreadInterruptionSupportTemplatePostProcessor threadinterruptionsupporttemplatepostprocessor = new ThreadInterruptionSupportTemplatePostProcessor();
+threadinterruptionsupporttemplatepostprocessor.addInterruptionChecks(null);
+}
+}

@@ -1,0 +1,6 @@
+import freemarker.ext.jsp.CustomTagAndELFunctionCombiner.TemplateTransformModelAndTemplateMethodModelEx;
+public class FunctionUse4645 {
+public void funcUse() {
+TemplateTransformModelAndTemplateMethodModelEx templatetransformmodelandtemplatemethodmodelex = new TemplateTransformModelAndTemplateMethodModelEx();
+}
+}

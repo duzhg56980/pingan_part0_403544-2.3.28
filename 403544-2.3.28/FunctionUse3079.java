@@ -1,0 +1,6 @@
+import freemarker.core.ThreadInterruptionSupportTemplatePostProcessor.TemplateProcessingThreadInterruptedException;
+public class FunctionUse3079 {
+public void funcUse() {
+TemplateProcessingThreadInterruptedException templateprocessingthreadinterruptedexception = new TemplateProcessingThreadInterruptedException();
+}
+}

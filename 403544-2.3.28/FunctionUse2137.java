@@ -1,0 +1,7 @@
+import freemarker.core.HTMLOutputFormat;
+public class FunctionUse2137 {
+public void funcUse() {
+HTMLOutputFormat htmloutputformat = new HTMLOutputFormat();
+htmloutputformat.newTemplateMarkupOutputModel(null,null);
+}
+}

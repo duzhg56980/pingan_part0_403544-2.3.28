@@ -1,0 +1,6 @@
+import freemarker.ext.jsp.CustomTagAndELFunctionCombiner.TemplateDirectiveModelAndTemplateMethodModelEx;
+public class FunctionUse4636 {
+public void funcUse() {
+TemplateDirectiveModelAndTemplateMethodModelEx templatedirectivemodelandtemplatemethodmodelex = new TemplateDirectiveModelAndTemplateMethodModelEx();
+}
+}

@@ -1,0 +1,7 @@
+import freemarker.ext.jython.JythonWrapper.TemplateModelToJythonAdapter;
+public class FunctionUse5073 {
+public void funcUse() {
+TemplateModelToJythonAdapter templatemodeltojythonadapter = new TemplateModelToJythonAdapter();
+templatemodeltojythonadapter.__finditem__(null);
+}
+}

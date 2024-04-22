@@ -1,0 +1,7 @@
+import freemarker.debug.impl.RmiDebugModelImpl;
+public class FunctionUse3597 {
+public void funcUse() {
+RmiDebugModelImpl rmidebugmodelimpl = new RmiDebugModelImpl();
+rmidebugmodelimpl.calculateType(null);
+}
+}

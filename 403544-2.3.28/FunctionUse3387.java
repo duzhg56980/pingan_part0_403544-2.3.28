@@ -1,0 +1,6 @@
+import freemarker.core._ObjectBuilderSettingEvaluator.LegacyExceptionWrapperSettingEvaluationExpression;
+public class FunctionUse3387 {
+public void funcUse() {
+LegacyExceptionWrapperSettingEvaluationExpression legacyexceptionwrappersettingevaluationexpression = new LegacyExceptionWrapperSettingEvaluationExpression();
+}
+}

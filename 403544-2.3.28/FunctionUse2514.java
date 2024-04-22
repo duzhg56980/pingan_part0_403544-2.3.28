@@ -1,0 +1,6 @@
+import freemarker.core.NonMarkupOutputException;
+public class FunctionUse2514 {
+public void funcUse() {
+NonMarkupOutputException nonmarkupoutputexception = new NonMarkupOutputException();
+}
+}

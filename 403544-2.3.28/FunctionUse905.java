@@ -1,0 +1,6 @@
+import freemarker.core.BuiltInsForSequences.sortBI.NumericalKVPComparator;
+public class FunctionUse905 {
+public void funcUse() {
+NumericalKVPComparator numericalkvpcomparator = new NumericalKVPComparator();
+}
+}

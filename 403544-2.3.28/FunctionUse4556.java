@@ -1,0 +1,7 @@
+import freemarker.ext.jdom.NodeListModel.JDOMXPathEx;
+public class FunctionUse4556 {
+public void funcUse() {
+JDOMXPathEx jdomxpathex = new JDOMXPathEx();
+jdomxpathex.selectNodes(null,null);
+}
+}
